@@ -1,0 +1,10 @@
+{
+    "rotationDays":  90,
+    "quarters":  [
+                     "q1",
+                     "q2"
+                 ],
+    "activeQuarter":  "q1",
+    "hubVersion":  1,
+    "updated":  "2026-11-25"
+}
